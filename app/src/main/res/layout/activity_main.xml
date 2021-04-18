@@ -11,6 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/add_shadow"
+        android:elevation="50dp"
         android:layout_margin="@dimen/marginLarge"
         android:padding="@dimen/paddingNormal"
         android:background="@color/teal_200"
